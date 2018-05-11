@@ -1,0 +1,23 @@
+{
+  "name": "curso-tdd",
+  "version": "1.0.0",
+  "description": "curso de TDD com JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefersonpassos/course-tdd-js.git"
+  },
+  "keywords": [
+    "js",
+    "tdd"
+  ],
+  "author": "Jeferson Passos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jefersonpassos/course-tdd-js/issues"
+  },
+  "homepage": "https://github.com/jefersonpassos/course-tdd-js#readme"
+}
